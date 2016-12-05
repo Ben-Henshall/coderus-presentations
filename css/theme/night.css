@@ -10,13 +10,14 @@
  *********************************************/
 body {
   background: #111111;
-  background-color: #111111; }
+  background-color: #111111;
+}
 
 .reveal {
   font-family: "Open Sans", sans-serif;
-  font-size: 30px;
+  font-size: 25px;
   font-weight: normal;
-  letter-spacing: -0.02em;
+  letter-spacing: 0.02em;
   color: #eeeeee; }
 
 ::selection {
